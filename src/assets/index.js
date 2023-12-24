@@ -27,11 +27,9 @@ import bitbucket from "./tech/bitbucket.png"
 import marmelo from './company/marmelo.png'
 import myCom from "./company/myCom.png"
 
-import carrent from "./carrent.png";
 import lyricks from "./lyricks.jpg"
 import vr from './vr.png'
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import filmbox from "./filmbox.png";
 
 export {
   logo,
@@ -58,9 +56,7 @@ export {
   tailwind,
   typescript,
   threejs,
-  carrent,
-  jobit,
-  tripguide,
+  filmbox,
   myCom,
   marmelo,
   vr,
